@@ -1,4 +1,8 @@
 {
+    "__comment": "The datapack is assembled by Datapack Assembler",
+    "__link": "https://far.ddns.me",
+    "__patreon": "Thank you to  and Mr. Papaveraceae for the support on https://patreon.com/GalSergey",
+
     "pack": {
         "description": "NNlk05's Rendering of the classic Auto-Pickup Mod/Data Pack!",
         "pack_format": 81
